@@ -33,7 +33,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://filebin.net/ly48xeafu8a8yoiq/SARAH_DAKKAK_CV.pdf?t=9323id88', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
