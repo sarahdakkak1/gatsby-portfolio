@@ -33,7 +33,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.canva.com/design/DAETInea8n8/-yVViNEqJVD0yVWVnpYReA/view?utm_content=DAETInea8n8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink', // if no resume, the button will not show up
+  resume: 'https://filebin.net/ly48xeafu8a8yoiq/SARAH_DAKKAK_CV.pdf?t=9323id88', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
